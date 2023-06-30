@@ -16,21 +16,23 @@
   <header>
 <!--  <p> 西宮湯川理論物理学ワークショップ </p>
   <p>YITP 国内モレキュール型研究会「場の理論の量子計算2022」</p> -->
-<h1>場の理論の新しい計算方法2023 </h1>
-<h2>量子計算とテンソルネットワークに関するスクール</h2>
-<br><br><br>
+<h1>極限宇宙D01班スクール2023 </h1>
+<!-- <h1>場の理論の新しい計算方法2022 </h1>
+<h2>量子計算とテンソルネットワークに関するサマースクール</h2>
+-->
+<br><br><br><br> <br><br><br><br>
   <h2> 10th(Tue) - 13th(Fri)  October, 2023 <br>
     大阪大学豊中キャンパス 南部ホール(+zoom) </h2>
-    <br><br>  <br><br><br> <br><br>
-    <!---- 
+    <br><br>    <br><br><br>
      <ul>
-    <li><a href="index.html">Home</a></li>
-    <li><a href="registration.html">Registration</a></li>
+    <li><a href="index.php">Home</a></li>
+    <li><a href="registration.php">Registration</a></li>
+    <!---- 
     <li><a href="participants.php">Participants</a></li>
     <li><a href="program.php">Program</a></li>
     <li><a href="announce.php">Announcement</a></li>
-  </ul>
     -->
+  </ul>
 </header>
 <!-- header -->
 
@@ -152,14 +154,6 @@
     </ul>
 </article>
 -->
-
-<article>
-  <h2> 参加登録 </h2>
-
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfclfsQooyffyokluJCzPL6x0SkM9Wr4i3hdX0f84srB0HOuw/viewform">登録フォーム</a>より申し込み 
-  (現地参加定員約６０名予定、申し込み〆切2023年8月6日)
-</article>
-
 
 
 
